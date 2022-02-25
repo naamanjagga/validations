@@ -1,0 +1,13 @@
+body{
+    background-color: #800000;
+    color: white;
+}
+#div_left {
+    margin: 130px 200px;
+    float: left;
+    width: 10%;
+}
+#div_right {
+    float: left;
+    width: 60%;
+}
